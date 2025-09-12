@@ -36,3 +36,8 @@ build/
 
 ### Mac OS ###
 .DS_Store
+FullBLUE.png
+FullGREEN.png
+FullRED.png
+test_image.jpg
+*GrayScale*
